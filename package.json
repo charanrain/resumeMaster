@@ -7,7 +7,7 @@
     "url": "https://github.com/WhatsNewSaes/Skeleton-Sass"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js && grunt"
   },
   "bugs": {
     "url": "https://github.com/WhatsNewSaes/resume/issues"
